@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 **Connect with me:** 
 
-<a href="mailto:gauravsingh905734@gmail.com" alt="Contact me"><img align="left" alt="Gaurav's Github" width="35px" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/gaurav-singh-0a0b86192/"><img align="left" alt="Gaurav's LinkdeIN" width="35px" src="https://www.linkedin.com/favicon.ico" /></a>
-<a href="https://www.instagram.com/_gaurav_6482/"><img align="left" alt="Gaurav's Instagram" width="35px" src="https://www.instagram.com/favicon.ico" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008509608889"><img align="left" alt="Gaurav's Facebook" width="35px" src="https://facebook.com/favicon.ico" /></a>
+<a href="mailto:gauravsingh905734@gmail.com" alt="Contact me"><img align="left" alt="Gaurav's Github" width="40px" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/gaurav-singh-0a0b86192/"><img align="left" alt="Gaurav's LinkdeIN" width="40px" src="https://www.linkedin.com/favicon.ico" /></a>
+<a href="https://www.instagram.com/_gaurav_6482/"><img align="left" alt="Gaurav's Instagram" width="40px" src="https://www.instagram.com/favicon.ico" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008509608889"><img align="left" alt="Gaurav's Facebook" width="40px" src="https://facebook.com/favicon.ico" /></a>
 
 <!-- <a href="https://github.com/gauravsingh6482"><img align="left" alt="Gaurav's Github" width="35px" src="https://github.com/favicon.ico" /></a>
 <a href="https://www.kaggle.com/gauravsingh143"><img align="left" alt="Gaurav's Kaggle" width="35px" src="https://www.kaggle.com/static/images/favicon.ico" /></a> -->
