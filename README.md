@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/gauravsingh6482"><img align="left" alt="Gaurav's Github" width="35px" src="https://github.com/favicon.ico" /></a> 
 <a href="https://www.kaggle.com/gauravsingh143"><img align="left" alt="Gaurav's Kaggle" width="35px" src="https://www.kaggle.com/static/images/favicon.ico" /></a> -->
 
-<!--**STATS**-->
+.
  
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=gauravsingh6482) --> 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=gauravsingh6482&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515) -->
+ ![](https://github-readme-stats.vercel.app/api?username=gauravsingh6482&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515) 
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{gauravsingh6482}/count.svg)
